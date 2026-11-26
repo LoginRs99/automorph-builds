@@ -2,6 +2,10 @@
 
 Automated release history for patched APKs.
 
+## 2026-11-26 19:59 UTC
+
+- **TikTok** (`tiktok-v47.9.3`) — Rebuild of v47.9.3; no patch changes — [Download APK](https://github.com/LoginRs99/automorph-builds/releases/download/tiktok-v47.9.3/tiktok-47.9.3-arm64-v8a-morphe.apk)
+
 ## 2026-11-26 18:57 UTC
 
 - **Reddit** (`reddit-v2026.48.0`) — 2026.45.0 -> 2026.48.0; +38 / -2 patch(es) — [Download APK](https://github.com/LoginRs99/automorph-builds/releases/download/reddit-v2026.48.0/reddit-2026.48.0-arm64-v8a-morphe.apk)
