@@ -16,10 +16,10 @@ Automated Android APK builds patched locally with **AutoMorph** & **Morphe Deskt
 
 | App | Version | Size | Android SDK | Patches | Updated (UTC) | Download |
 | --- | --- | --- | --- | --- | --- | --- |
-| **com.reddit.frontpage** (`com-reddit-frontpage`) | `v2026.45.0` | 129.52 MB | API 32–36 | 32 | 2026-11-26 | **[⬇ Download APK](https://github.com/LoginRs99/automorph-builds/releases/download/com.reddit.frontpage-v2026.45.0/com.reddit.frontpage-2026.45.0-arm64-v8a-morphe.apk)** |
-| **com.twitter.android** (`x-lg`) | `v12.19.1-release.0` | 213.79 MB | API 28–35 | 69 | 2026-11-26 | **[⬇ Download APK](https://github.com/LoginRs99/automorph-builds/releases/download/x-lg-v12.19.1-release.0/x-lg-12.19.1-release.0-arm64-v8a-morphe.apk)** |
-| **com.zhiliaoapp.musically** (`com-zhiliaoapp-musically`) | `v47.9.3` | 235.08 MB | API 23–36 | 137 | 2026-11-26 | **[⬇ Download APK](https://github.com/LoginRs99/automorph-builds/releases/download/com.zhiliaoapp.musically-v47.9.3/com.zhiliaoapp.musically-47.9.3-arm64-v8a-morphe.apk)** |
-| **YouTube LG** (`youtube-lg`) | `v21.45.82` | 170.14 MB | API 32–37 | 114 | 2026-11-26 | **[⬇ Download APK](https://github.com/LoginRs99/automorph-builds/releases/download/com.google.android.youtube-v21.45.82/com.google.android.youtube-21.45.82-arm64-v8a-morphe.apk)** |
+| **com.reddit.frontpage** (`com-reddit-frontpage`) | `v2026.45.0` | 129.52 MB | API 32–36 | 32 | 2026-11-26 | **[⬇ APK](https://github.com/LoginRs99/automorph-builds/releases/download/com-reddit-frontpage-v2026.45.0/com-reddit-frontpage-2026.45.0-arm64-v8a-morphe.apk)** · **[📲 Obtainium](https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/%7B%22id%22%3A%22com.lg.reddit%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FLoginRs99%2Fautomorph-builds%22%2C%22author%22%3A%22LoginRs99%22%2C%22name%22%3A%22com.reddit.frontpage%22%2C%22latestVersion%22%3A%222026.45.0%22%2C%22preferredApkIndex%22%3A0%2C%22overrideSource%22%3A%22GitHub%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3A%20false%2C%20%5C%22fallbackToOlderReleases%5C%22%3A%20true%2C%20%5C%22filterReleaseTitlesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22filterReleaseNotesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22verifyLatestTag%5C%22%3A%20false%2C%20%5C%22dontSortReleasesList%5C%22%3A%20false%2C%20%5C%22useLatestAssetDateAsReleaseDate%5C%22%3A%20false%2C%20%5C%22releaseTitleAsVersion%5C%22%3A%20false%2C%20%5C%22trackOnly%5C%22%3A%20false%2C%20%5C%22versionExtractionRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22matchGroupToUse%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22versionDetection%5C%22%3A%20true%2C%20%5C%22releaseDateAsVersion%5C%22%3A%20false%2C%20%5C%22useVersionCodeAsOSVersion%5C%22%3A%20false%2C%20%5C%22apkFilterRegEx%5C%22%3A%20%5C%22%5Ecom%5C%5C%5C%5C-reddit%5C%5C%5C%5C-frontpage-.%2A%5C%5C%5C%5C.apk%24%5C%22%2C%20%5C%22invertAPKFilter%5C%22%3A%20false%2C%20%5C%22autoApkFilterByArch%5C%22%3A%20true%2C%20%5C%22appName%5C%22%3A%20%5C%22com.reddit.frontpage%5C%22%2C%20%5C%22shizukuPretendToBeGooglePlay%5C%22%3A%20false%2C%20%5C%22allowInsecure%5C%22%3A%20false%2C%20%5C%22exemptFromBackgroundUpdates%5C%22%3A%20false%2C%20%5C%22skipUpdateNotifications%5C%22%3A%20false%2C%20%5C%22about%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22refreshBeforeDownload%5C%22%3A%20false%2C%20%5C%22filterReleasesByRegEx%5C%22%3A%20%5C%22%5Ecom%5C%5C%5C%5C-reddit%5C%5C%5C%5C-frontpage-v%5C%22%7D%22%7D)** |
+| **com.zhiliaoapp.musically** (`com-zhiliaoapp-musically`) | `v47.9.3` | 235.08 MB | API 23–36 | 137 | 2026-11-26 | **[⬇ APK](https://github.com/LoginRs99/automorph-builds/releases/download/com-zhiliaoapp-musically-v47.9.3/com-zhiliaoapp-musically-47.9.3-arm64-v8a-morphe.apk)** · **[📲 Obtainium](https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/%7B%22id%22%3A%22com.zhiliaoapp.musically%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FLoginRs99%2Fautomorph-builds%22%2C%22author%22%3A%22LoginRs99%22%2C%22name%22%3A%22com.zhiliaoapp.musically%22%2C%22latestVersion%22%3A%2247.9.3%22%2C%22preferredApkIndex%22%3A0%2C%22overrideSource%22%3A%22GitHub%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3A%20false%2C%20%5C%22fallbackToOlderReleases%5C%22%3A%20true%2C%20%5C%22filterReleaseTitlesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22filterReleaseNotesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22verifyLatestTag%5C%22%3A%20false%2C%20%5C%22dontSortReleasesList%5C%22%3A%20false%2C%20%5C%22useLatestAssetDateAsReleaseDate%5C%22%3A%20false%2C%20%5C%22releaseTitleAsVersion%5C%22%3A%20false%2C%20%5C%22trackOnly%5C%22%3A%20false%2C%20%5C%22versionExtractionRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22matchGroupToUse%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22versionDetection%5C%22%3A%20true%2C%20%5C%22releaseDateAsVersion%5C%22%3A%20false%2C%20%5C%22useVersionCodeAsOSVersion%5C%22%3A%20false%2C%20%5C%22apkFilterRegEx%5C%22%3A%20%5C%22%5Ecom%5C%5C%5C%5C-zhiliaoapp%5C%5C%5C%5C-musically-.%2A%5C%5C%5C%5C.apk%24%5C%22%2C%20%5C%22invertAPKFilter%5C%22%3A%20false%2C%20%5C%22autoApkFilterByArch%5C%22%3A%20true%2C%20%5C%22appName%5C%22%3A%20%5C%22com.zhiliaoapp.musically%5C%22%2C%20%5C%22shizukuPretendToBeGooglePlay%5C%22%3A%20false%2C%20%5C%22allowInsecure%5C%22%3A%20false%2C%20%5C%22exemptFromBackgroundUpdates%5C%22%3A%20false%2C%20%5C%22skipUpdateNotifications%5C%22%3A%20false%2C%20%5C%22about%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22refreshBeforeDownload%5C%22%3A%20false%2C%20%5C%22filterReleasesByRegEx%5C%22%3A%20%5C%22%5Ecom%5C%5C%5C%5C-zhiliaoapp%5C%5C%5C%5C-musically-v%5C%22%7D%22%7D)** |
+| **X LG** (`x-lg`) | `v12.38.1-prod.01` | 112.20 MB | API 32–36 | 47 | 2026-11-26 | **[⬇ APK](https://github.com/LoginRs99/automorph-builds/releases/download/x-lg-v12.38.1-prod.01/x-lg-12.38.1-prod.01-arm64-v8a-morphe.apk)** · **[📲 Obtainium](https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/%7B%22id%22%3A%22com.lg.android.piko%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FLoginRs99%2Fautomorph-builds%22%2C%22author%22%3A%22LoginRs99%22%2C%22name%22%3A%22X%20LG%22%2C%22latestVersion%22%3A%2212.38.1-prod.01%22%2C%22preferredApkIndex%22%3A0%2C%22overrideSource%22%3A%22GitHub%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3A%20false%2C%20%5C%22fallbackToOlderReleases%5C%22%3A%20true%2C%20%5C%22filterReleaseTitlesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22filterReleaseNotesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22verifyLatestTag%5C%22%3A%20false%2C%20%5C%22dontSortReleasesList%5C%22%3A%20false%2C%20%5C%22useLatestAssetDateAsReleaseDate%5C%22%3A%20false%2C%20%5C%22releaseTitleAsVersion%5C%22%3A%20false%2C%20%5C%22trackOnly%5C%22%3A%20false%2C%20%5C%22versionExtractionRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22matchGroupToUse%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22versionDetection%5C%22%3A%20true%2C%20%5C%22releaseDateAsVersion%5C%22%3A%20false%2C%20%5C%22useVersionCodeAsOSVersion%5C%22%3A%20false%2C%20%5C%22apkFilterRegEx%5C%22%3A%20%5C%22%5Ex%5C%5C%5C%5C-lg-.%2A%5C%5C%5C%5C.apk%24%5C%22%2C%20%5C%22invertAPKFilter%5C%22%3A%20false%2C%20%5C%22autoApkFilterByArch%5C%22%3A%20true%2C%20%5C%22appName%5C%22%3A%20%5C%22X%20LG%5C%22%2C%20%5C%22shizukuPretendToBeGooglePlay%5C%22%3A%20false%2C%20%5C%22allowInsecure%5C%22%3A%20false%2C%20%5C%22exemptFromBackgroundUpdates%5C%22%3A%20false%2C%20%5C%22skipUpdateNotifications%5C%22%3A%20false%2C%20%5C%22about%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22refreshBeforeDownload%5C%22%3A%20false%2C%20%5C%22filterReleasesByRegEx%5C%22%3A%20%5C%22%5Ex%5C%5C%5C%5C-lg-v%5C%22%7D%22%7D)** |
+| **YouTube LG** (`youtube-lg`) | `v21.45.82` | 170.14 MB | API 32–37 | 114 | 2026-11-26 | **[⬇ APK](https://github.com/LoginRs99/automorph-builds/releases/download/youtube-lg-v21.45.82/youtube-lg-21.45.82-arm64-v8a-morphe.apk)** · **[📲 Obtainium](https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/%7B%22id%22%3A%22com.lg.youtube%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FLoginRs99%2Fautomorph-builds%22%2C%22author%22%3A%22LoginRs99%22%2C%22name%22%3A%22YouTube%20LG%22%2C%22latestVersion%22%3A%2221.45.82%22%2C%22preferredApkIndex%22%3A0%2C%22overrideSource%22%3A%22GitHub%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3A%20false%2C%20%5C%22fallbackToOlderReleases%5C%22%3A%20true%2C%20%5C%22filterReleaseTitlesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22filterReleaseNotesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22verifyLatestTag%5C%22%3A%20false%2C%20%5C%22dontSortReleasesList%5C%22%3A%20false%2C%20%5C%22useLatestAssetDateAsReleaseDate%5C%22%3A%20false%2C%20%5C%22releaseTitleAsVersion%5C%22%3A%20false%2C%20%5C%22trackOnly%5C%22%3A%20false%2C%20%5C%22versionExtractionRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22matchGroupToUse%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22versionDetection%5C%22%3A%20true%2C%20%5C%22releaseDateAsVersion%5C%22%3A%20false%2C%20%5C%22useVersionCodeAsOSVersion%5C%22%3A%20false%2C%20%5C%22apkFilterRegEx%5C%22%3A%20%5C%22%5Eyoutube%5C%5C%5C%5C-lg-.%2A%5C%5C%5C%5C.apk%24%5C%22%2C%20%5C%22invertAPKFilter%5C%22%3A%20false%2C%20%5C%22autoApkFilterByArch%5C%22%3A%20true%2C%20%5C%22appName%5C%22%3A%20%5C%22YouTube%20LG%5C%22%2C%20%5C%22shizukuPretendToBeGooglePlay%5C%22%3A%20false%2C%20%5C%22allowInsecure%5C%22%3A%20false%2C%20%5C%22exemptFromBackgroundUpdates%5C%22%3A%20false%2C%20%5C%22skipUpdateNotifications%5C%22%3A%20false%2C%20%5C%22about%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22refreshBeforeDownload%5C%22%3A%20false%2C%20%5C%22filterReleasesByRegEx%5C%22%3A%20%5C%22%5Eyoutube%5C%5C%5C%5C-lg-v%5C%22%7D%22%7D)** |
 
 ## Expandable App Cards
 
@@ -34,6 +34,7 @@ Automated Android APK builds patched locally with **AutoMorph** & **Morphe Deskt
 | **APK SHA-256** | `6723b8bae065baf158b50a07b5aa4b6de90ec4d8f1a572c2e8d475fe2a615aa6` |
 | **Signing Cert SHA-256** | `97c5c6b996e6e589bb8d0ad097587395637c1d05e5b1c15467f08b1fa78aad3a` |
 | **Patch Sources** | `https://github.com/MorpheApp/morphe-patches` |
+| **1-Click Obtainium** | [📲 Add to Obtainium](https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/%7B%22id%22%3A%22com.lg.reddit%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FLoginRs99%2Fautomorph-builds%22%2C%22author%22%3A%22LoginRs99%22%2C%22name%22%3A%22com.reddit.frontpage%22%2C%22latestVersion%22%3A%222026.45.0%22%2C%22preferredApkIndex%22%3A0%2C%22overrideSource%22%3A%22GitHub%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3A%20false%2C%20%5C%22fallbackToOlderReleases%5C%22%3A%20true%2C%20%5C%22filterReleaseTitlesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22filterReleaseNotesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22verifyLatestTag%5C%22%3A%20false%2C%20%5C%22dontSortReleasesList%5C%22%3A%20false%2C%20%5C%22useLatestAssetDateAsReleaseDate%5C%22%3A%20false%2C%20%5C%22releaseTitleAsVersion%5C%22%3A%20false%2C%20%5C%22trackOnly%5C%22%3A%20false%2C%20%5C%22versionExtractionRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22matchGroupToUse%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22versionDetection%5C%22%3A%20true%2C%20%5C%22releaseDateAsVersion%5C%22%3A%20false%2C%20%5C%22useVersionCodeAsOSVersion%5C%22%3A%20false%2C%20%5C%22apkFilterRegEx%5C%22%3A%20%5C%22%5Ecom%5C%5C%5C%5C-reddit%5C%5C%5C%5C-frontpage-.%2A%5C%5C%5C%5C.apk%24%5C%22%2C%20%5C%22invertAPKFilter%5C%22%3A%20false%2C%20%5C%22autoApkFilterByArch%5C%22%3A%20true%2C%20%5C%22appName%5C%22%3A%20%5C%22com.reddit.frontpage%5C%22%2C%20%5C%22shizukuPretendToBeGooglePlay%5C%22%3A%20false%2C%20%5C%22allowInsecure%5C%22%3A%20false%2C%20%5C%22exemptFromBackgroundUpdates%5C%22%3A%20false%2C%20%5C%22skipUpdateNotifications%5C%22%3A%20false%2C%20%5C%22about%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22refreshBeforeDownload%5C%22%3A%20false%2C%20%5C%22filterReleasesByRegEx%5C%22%3A%20%5C%22%5Ecom%5C%5C%5C%5C-reddit%5C%5C%5C%5C-frontpage-v%5C%22%7D%22%7D) |
 
 **Applied Patches:**
 - App icon
@@ -71,91 +72,6 @@ Automated Android APK builds patched locally with **AutoMorph** & **Morphe Deskt
 
 </details>
 
-<details><summary><strong>com.twitter.android</strong> (<code>com.twitter.android</code> — v12.19.1-release.0)</summary>
-
-| Property | Value |
-| --- | --- |
-| **Source Package** | `com.twitter.android` |
-| **Patched Package** | `com.twitter.android` |
-| **Version Code** | `2147483647` |
-| **Morphe Engine** | `2.3.0` |
-| **APK SHA-256** | `bdf9cae2e4d9ba591c21d934a07b5a85ca6941f2b54f8ee8dc00f586ac1aa777` |
-| **Signing Cert SHA-256** | `97c5c6b996e6e589bb8d0ad097587395637c1d05e5b1c15467f08b1fa78aad3a` |
-| **Patch Sources** | `https://github.com/crimera/piko` |
-
-**Applied Patches:**
-- Add ability to copy media link
-- Block redirecting to X Lite
-- Block update screen
-- Clear tracking params
-- Control video auto scroll
-- Custom download folder
-- Custom emoji font
-- Custom font
-- Custom share menu
-- Custom sharing domain
-- Customise post font size
-- Customize Inline action Bar items
-- Customize Navigation Bar items
-- Customize default reply sorting
-- Customize explore tabs
-- Customize notification tabs
-- Customize profile tabs
-- Customize search suggestions
-- Customize search tab items
-- Customize side bar items
-- Customize timeline top bar
-- Delete from database
-- Disable Play Store updates
-- Disable auto timeline scroll on launch
-- Disable chirp font
-- Download patch
-- Enable Undo Posts
-- Enable debug menu for posts
-- Enable force HD videos
-- Force enable translate
-- Handle custom twitter links
-- Hide Banner
-- Hide FAB
-- Hide FAB Menu Buttons
-- Hide Live Threads
-- Hide Recommended Users
-- Hide badges from navigation bar icons
-- Hide bookmark icon in timeline
-- Hide community badges
-- Hide followed by context
-- Hide hidden replies
-- Hide immersive player
-- Hide nudge button
-- Hide post metrics
-- Hide promote button
-- Hide recommendation items
-- Hook feature flag
-- Import/Export login token
-- Legacy share links
-- Log server response
-- More information on profile
-- Native downloader
-- Native reader mode
-- Native translator
-- No shortened URL
-- Pause search suggestions
-- Remove Ads
-- Remove premium upsell
-- Remove search suggestions
-- Remove view count
-- Restore legacy follower lists
-- Round off numbers
-- Selectable Text
-- Share Tweet as Image
-- Show changelogs
-- Show poll results
-- Show post source label
-- Show sensitive media
-- Support external downloader
-
-</details>
-
 <details><summary><strong>com.zhiliaoapp.musically</strong> (<code>com.zhiliaoapp.musically</code> — v47.9.3)</summary>
 
 | Property | Value |
@@ -167,6 +83,7 @@ Automated Android APK builds patched locally with **AutoMorph** & **Morphe Deskt
 | **APK SHA-256** | `ffeb958de9e36e9d0e264cb35539ebd077f4c7143634f33afb5df36b9b2f65a4` |
 | **Signing Cert SHA-256** | `97c5c6b996e6e589bb8d0ad097587395637c1d05e5b1c15467f08b1fa78aad3a` |
 | **Patch Sources** | `https://github.com/SysAdminDoc/hushfeed` |
+| **1-Click Obtainium** | [📲 Add to Obtainium](https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/%7B%22id%22%3A%22com.zhiliaoapp.musically%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FLoginRs99%2Fautomorph-builds%22%2C%22author%22%3A%22LoginRs99%22%2C%22name%22%3A%22com.zhiliaoapp.musically%22%2C%22latestVersion%22%3A%2247.9.3%22%2C%22preferredApkIndex%22%3A0%2C%22overrideSource%22%3A%22GitHub%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3A%20false%2C%20%5C%22fallbackToOlderReleases%5C%22%3A%20true%2C%20%5C%22filterReleaseTitlesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22filterReleaseNotesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22verifyLatestTag%5C%22%3A%20false%2C%20%5C%22dontSortReleasesList%5C%22%3A%20false%2C%20%5C%22useLatestAssetDateAsReleaseDate%5C%22%3A%20false%2C%20%5C%22releaseTitleAsVersion%5C%22%3A%20false%2C%20%5C%22trackOnly%5C%22%3A%20false%2C%20%5C%22versionExtractionRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22matchGroupToUse%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22versionDetection%5C%22%3A%20true%2C%20%5C%22releaseDateAsVersion%5C%22%3A%20false%2C%20%5C%22useVersionCodeAsOSVersion%5C%22%3A%20false%2C%20%5C%22apkFilterRegEx%5C%22%3A%20%5C%22%5Ecom%5C%5C%5C%5C-zhiliaoapp%5C%5C%5C%5C-musically-.%2A%5C%5C%5C%5C.apk%24%5C%22%2C%20%5C%22invertAPKFilter%5C%22%3A%20false%2C%20%5C%22autoApkFilterByArch%5C%22%3A%20true%2C%20%5C%22appName%5C%22%3A%20%5C%22com.zhiliaoapp.musically%5C%22%2C%20%5C%22shizukuPretendToBeGooglePlay%5C%22%3A%20false%2C%20%5C%22allowInsecure%5C%22%3A%20false%2C%20%5C%22exemptFromBackgroundUpdates%5C%22%3A%20false%2C%20%5C%22skipUpdateNotifications%5C%22%3A%20false%2C%20%5C%22about%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22refreshBeforeDownload%5C%22%3A%20false%2C%20%5C%22filterReleasesByRegEx%5C%22%3A%20%5C%22%5Ecom%5C%5C%5C%5C-zhiliaoapp%5C%5C%5C%5C-musically-v%5C%22%7D%22%7D) |
 
 **Applied Patches:**
 - Account cleanup
@@ -309,6 +226,70 @@ Automated Android APK builds patched locally with **AutoMorph** & **Morphe Deskt
 
 </details>
 
+<details><summary><strong>X LG</strong> (<code>com.lg.android.piko</code> — v12.38.1-prod.01)</summary>
+
+| Property | Value |
+| --- | --- |
+| **Source Package** | `com.twitter.android` |
+| **Patched Package** | `com.lg.android.piko` |
+| **Version Code** | `312381001` |
+| **Morphe Engine** | `2.3.0` |
+| **APK SHA-256** | `ea6add2d1f459ef5d731e169fb181f6a4ba1489d46944a062078cc3208365a3d` |
+| **Signing Cert SHA-256** | `97c5c6b996e6e589bb8d0ad097587395637c1d05e5b1c15467f08b1fa78aad3a` |
+| **Patch Sources** | `https://github.com/crimera/piko-newx` |
+| **1-Click Obtainium** | [📲 Add to Obtainium](https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/%7B%22id%22%3A%22com.lg.android.piko%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FLoginRs99%2Fautomorph-builds%22%2C%22author%22%3A%22LoginRs99%22%2C%22name%22%3A%22X%20LG%22%2C%22latestVersion%22%3A%2212.38.1-prod.01%22%2C%22preferredApkIndex%22%3A0%2C%22overrideSource%22%3A%22GitHub%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3A%20false%2C%20%5C%22fallbackToOlderReleases%5C%22%3A%20true%2C%20%5C%22filterReleaseTitlesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22filterReleaseNotesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22verifyLatestTag%5C%22%3A%20false%2C%20%5C%22dontSortReleasesList%5C%22%3A%20false%2C%20%5C%22useLatestAssetDateAsReleaseDate%5C%22%3A%20false%2C%20%5C%22releaseTitleAsVersion%5C%22%3A%20false%2C%20%5C%22trackOnly%5C%22%3A%20false%2C%20%5C%22versionExtractionRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22matchGroupToUse%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22versionDetection%5C%22%3A%20true%2C%20%5C%22releaseDateAsVersion%5C%22%3A%20false%2C%20%5C%22useVersionCodeAsOSVersion%5C%22%3A%20false%2C%20%5C%22apkFilterRegEx%5C%22%3A%20%5C%22%5Ex%5C%5C%5C%5C-lg-.%2A%5C%5C%5C%5C.apk%24%5C%22%2C%20%5C%22invertAPKFilter%5C%22%3A%20false%2C%20%5C%22autoApkFilterByArch%5C%22%3A%20true%2C%20%5C%22appName%5C%22%3A%20%5C%22X%20LG%5C%22%2C%20%5C%22shizukuPretendToBeGooglePlay%5C%22%3A%20false%2C%20%5C%22allowInsecure%5C%22%3A%20false%2C%20%5C%22exemptFromBackgroundUpdates%5C%22%3A%20false%2C%20%5C%22skipUpdateNotifications%5C%22%3A%20false%2C%20%5C%22about%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22refreshBeforeDownload%5C%22%3A%20false%2C%20%5C%22filterReleasesByRegEx%5C%22%3A%20%5C%22%5Ex%5C%5C%5C%5C-lg-v%5C%22%7D%22%7D) |
+
+**Applied Patches:**
+- NewX: Clone
+- NewX: Crash logs
+- NewX: Custom font
+- NewX: Custom sharing domain
+- NewX: Customize drawer items
+- NewX: Customize inline actions
+- NewX: Customize media menu items
+- NewX: Customize navigation bar
+- NewX: Customize post menu items
+- NewX: Customize profile tabs
+- NewX: Customize timeline tabs
+- NewX: Disable automatic timeline refresh
+- NewX: Disable blur effects
+- NewX: Disable video player scrolling
+- NewX: Enable quality-of-life feature flags
+- NewX: Feature switch overrides
+- NewX: Filter For You by topic
+- NewX: Filter posts by keyword
+- NewX: Gallery profile Photos tab
+- NewX: Hide AI-generated posts
+- NewX: Hide Discover more
+- NewX: Hide Spaces bar
+- NewX: Hide compose button
+- NewX: Hide new posts pill
+- NewX: Hide post author actions
+- NewX: Hide post reply bar
+- NewX: Hide posts by verified account type
+- NewX: Hide premium upsell
+- NewX: Hide timeline tabs bar
+- NewX: Hide who to follow
+- NewX: Inline download button
+- NewX: Open canonical URLs
+- NewX: Permanent share links
+- NewX: Redirect downloads to chosen folder
+- NewX: Remove ads
+- NewX: Remove share tracking parameters
+- NewX: Restore pinned home tab
+- NewX: Restore timeline position
+- NewX: Set default media tab
+- NewX: Set default profile post sorting
+- NewX: Set default reply sorting
+- NewX: Show poll results
+- NewX: Show sensitive media
+- NewX: Theme
+- NewX: Translator
+- NewX: Unlock color customization
+- NewX: Unlock downloads
+
+</details>
+
 <details><summary><strong>YouTube LG</strong> (<code>com.lg.youtube</code> — v21.45.82)</summary>
 
 | Property | Value |
@@ -320,6 +301,7 @@ Automated Android APK builds patched locally with **AutoMorph** & **Morphe Deskt
 | **APK SHA-256** | `e311a88083586cfb0b2f5d788d83a27a01983464d388b5bc61e7fed758de97df` |
 | **Signing Cert SHA-256** | `97c5c6b996e6e589bb8d0ad097587395637c1d05e5b1c15467f08b1fa78aad3a` |
 | **Patch Sources** | `https://github.com/MorpheApp/morphe-patches` |
+| **1-Click Obtainium** | [📲 Add to Obtainium](https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/%7B%22id%22%3A%22com.lg.youtube%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FLoginRs99%2Fautomorph-builds%22%2C%22author%22%3A%22LoginRs99%22%2C%22name%22%3A%22YouTube%20LG%22%2C%22latestVersion%22%3A%2221.45.82%22%2C%22preferredApkIndex%22%3A0%2C%22overrideSource%22%3A%22GitHub%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3A%20false%2C%20%5C%22fallbackToOlderReleases%5C%22%3A%20true%2C%20%5C%22filterReleaseTitlesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22filterReleaseNotesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22verifyLatestTag%5C%22%3A%20false%2C%20%5C%22dontSortReleasesList%5C%22%3A%20false%2C%20%5C%22useLatestAssetDateAsReleaseDate%5C%22%3A%20false%2C%20%5C%22releaseTitleAsVersion%5C%22%3A%20false%2C%20%5C%22trackOnly%5C%22%3A%20false%2C%20%5C%22versionExtractionRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22matchGroupToUse%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22versionDetection%5C%22%3A%20true%2C%20%5C%22releaseDateAsVersion%5C%22%3A%20false%2C%20%5C%22useVersionCodeAsOSVersion%5C%22%3A%20false%2C%20%5C%22apkFilterRegEx%5C%22%3A%20%5C%22%5Eyoutube%5C%5C%5C%5C-lg-.%2A%5C%5C%5C%5C.apk%24%5C%22%2C%20%5C%22invertAPKFilter%5C%22%3A%20false%2C%20%5C%22autoApkFilterByArch%5C%22%3A%20true%2C%20%5C%22appName%5C%22%3A%20%5C%22YouTube%20LG%5C%22%2C%20%5C%22shizukuPretendToBeGooglePlay%5C%22%3A%20false%2C%20%5C%22allowInsecure%5C%22%3A%20false%2C%20%5C%22exemptFromBackgroundUpdates%5C%22%3A%20false%2C%20%5C%22skipUpdateNotifications%5C%22%3A%20false%2C%20%5C%22about%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22refreshBeforeDownload%5C%22%3A%20false%2C%20%5C%22filterReleasesByRegEx%5C%22%3A%20%5C%22%5Eyoutube%5C%5C%5C%5C-lg-v%5C%22%7D%22%7D) |
 
 **Applied Patches:**
 - AI channel filter
