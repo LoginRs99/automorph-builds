@@ -2,6 +2,11 @@
 
 Automated release history for patched APKs.
 
+## 2026-11-26 18:48 UTC
+
+- **YouTube** (`youtube-v21.30.216`) — 21.45.82 -> 21.30.216; +17 / -1 patch(es) — [Download APK](https://github.com/LoginRs99/automorph-builds/releases/download/youtube-v21.30.216/youtube-21.30.216-arm64-v8a-morphe.apk)
+- **TikTok** (`tiktok-v47.9.3`) — Initial release (v47.9.3) — [Download APK](https://github.com/LoginRs99/automorph-builds/releases/download/tiktok-v47.9.3/tiktok-47.9.3-arm64-v8a-morphe.apk)
+
 ## 2026-11-26 18:42 UTC
 
 - **TikTok** (`tiktok-v47.9.3`) — Rebuild of v47.9.3; -12 patch(es) — [Download APK](https://github.com/LoginRs99/automorph-builds/releases/download/tiktok-v47.9.3/tiktok-47.9.3-arm64-v8a-morphe.apk)
