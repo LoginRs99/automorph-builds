@@ -2,6 +2,13 @@
 
 Automated release history for patched APKs.
 
+## 2026-11-26 20:12 UTC
+
+- **Reddit** (`reddit-v2026.48.0`) — Rebuild of v2026.48.0; no patch changes — [Download APK](https://github.com/LoginRs99/automorph-builds/releases/download/reddit-v2026.48.0/reddit-2026.48.0-arm64-v8a-morphe.apk)
+- **YouTube** (`youtube-v21.30.216`) — Rebuild of v21.30.216; no patch changes — [Download APK](https://github.com/LoginRs99/automorph-builds/releases/download/youtube-v21.30.216/youtube-21.30.216-arm64-v8a-morphe.apk)
+- **X** (`x-v12.19.1-release.0`) — Rebuild of v12.19.1-release.0; no patch changes — [Download APK](https://github.com/LoginRs99/automorph-builds/releases/download/x-v12.19.1-release.0/x-12.19.1-release.0-arm64-v8a-morphe.apk)
+- **TikTok** (`tiktok-v47.9.3`) — Rebuild of v47.9.3; no patch changes — [Download APK](https://github.com/LoginRs99/automorph-builds/releases/download/tiktok-v47.9.3/tiktok-47.9.3-arm64-v8a-morphe.apk)
+
 ## 2026-11-26 20:08 UTC
 
 - **X** (`x-v12.19.1-release.0`) — 12.38.1-prod.01 -> 12.19.1-release.0; +69 / -47 patch(es) — [Download APK](https://github.com/LoginRs99/automorph-builds/releases/download/x-v12.19.1-release.0/x-12.19.1-release.0-arm64-v8a-morphe.apk)
