@@ -2,6 +2,10 @@
 
 Automated release history for patched APKs.
 
+## 2026-11-26 18:42 UTC
+
+- **TikTok** (`tiktok-v47.9.3`) — Rebuild of v47.9.3; -12 patch(es) — [Download APK](https://github.com/LoginRs99/automorph-builds/releases/download/tiktok-v47.9.3/tiktok-47.9.3-arm64-v8a-morphe.apk)
+
 ## 2026-11-26 14:43 UTC
 
 - **com.zhiliaoapp.musically** (`com-zhiliaoapp-musically-v47.9.3`) — Rebuild of v47.9.3; no patch changes — [Download APK](https://github.com/LoginRs99/automorph-builds/releases/download/com-zhiliaoapp-musically-v47.9.3/com-zhiliaoapp-musically-47.9.3-arm64-v8a-morphe.apk)
