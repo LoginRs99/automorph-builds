@@ -1,6 +1,6 @@
 # AutoMorph Patched Builds
 
-![Active Apps](https://img.shields.io/badge/Active_Apps-4-20cfce?style=flat-square) ![Architecture](https://img.shields.io/badge/Arch-arm64-v8a-4A7FC8?style=flat-square) ![Signing Cert](https://img.shields.io/badge/Signing_Cert-97c5c6b996e6-10B981?style=flat-square) ![Obtainium Ready](https://img.shields.io/badge/Obtainium-Ready-6366F1?style=flat-square)
+![Active Apps](https://img.shields.io/badge/Active_Apps-3-20cfce?style=flat-square) ![Architecture](https://img.shields.io/badge/Arch-arm64-v8a-4A7FC8?style=flat-square) ![Signing Cert](https://img.shields.io/badge/Signing_Cert-97c5c6b996e6-10B981?style=flat-square) ![Obtainium Ready](https://img.shields.io/badge/Obtainium-Ready-6366F1?style=flat-square)
 
 Automated Android APK builds patched locally with **AutoMorph** & **Morphe Desktop** and distributed via GitHub Releases.
 
@@ -17,7 +17,6 @@ Automated Android APK builds patched locally with **AutoMorph** & **Morphe Deskt
 | App | Version | Size | Android SDK | Patches | Updated (UTC) | Download |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Reddit** (`com-reddit-frontpage`) | `v2026.45.0` | 129.52 MB | API 32–36 | 32 | 2026-11-26 | **[⬇ APK](https://github.com/LoginRs99/automorph-builds/releases/download/com-reddit-frontpage-v2026.45.0/com-reddit-frontpage-2026.45.0-arm64-v8a-morphe.apk)** · **[📲 Obtainium](https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/%7B%22id%22%3A%22com.lg.reddit%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FLoginRs99%2Fautomorph-builds%22%2C%22author%22%3A%22LoginRs99%22%2C%22name%22%3A%22Reddit%22%2C%22latestVersion%22%3A%222026.45.0%22%2C%22preferredApkIndex%22%3A0%2C%22overrideSource%22%3A%22GitHub%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3A%20false%2C%20%5C%22fallbackToOlderReleases%5C%22%3A%20true%2C%20%5C%22filterReleaseTitlesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22filterReleaseNotesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22verifyLatestTag%5C%22%3A%20false%2C%20%5C%22dontSortReleasesList%5C%22%3A%20false%2C%20%5C%22useLatestAssetDateAsReleaseDate%5C%22%3A%20false%2C%20%5C%22releaseTitleAsVersion%5C%22%3A%20false%2C%20%5C%22trackOnly%5C%22%3A%20false%2C%20%5C%22versionExtractionRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22matchGroupToUse%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22versionDetection%5C%22%3A%20true%2C%20%5C%22releaseDateAsVersion%5C%22%3A%20false%2C%20%5C%22useVersionCodeAsOSVersion%5C%22%3A%20false%2C%20%5C%22apkFilterRegEx%5C%22%3A%20%5C%22%5Ecom%5C%5C%5C%5C-reddit%5C%5C%5C%5C-frontpage-.%2A%5C%5C%5C%5C.apk%24%5C%22%2C%20%5C%22invertAPKFilter%5C%22%3A%20false%2C%20%5C%22autoApkFilterByArch%5C%22%3A%20true%2C%20%5C%22appName%5C%22%3A%20%5C%22Reddit%5C%22%2C%20%5C%22shizukuPretendToBeGooglePlay%5C%22%3A%20false%2C%20%5C%22allowInsecure%5C%22%3A%20false%2C%20%5C%22exemptFromBackgroundUpdates%5C%22%3A%20false%2C%20%5C%22skipUpdateNotifications%5C%22%3A%20false%2C%20%5C%22about%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22refreshBeforeDownload%5C%22%3A%20false%2C%20%5C%22filterReleasesByRegEx%5C%22%3A%20%5C%22%5Ecom%5C%5C%5C%5C-reddit%5C%5C%5C%5C-frontpage-v%5C%22%7D%22%7D)** |
-| **TikTok** (`com-zhiliaoapp-musically`) | `v47.9.3` | 235.08 MB | API 23–36 | 137 | 2026-11-26 | **[⬇ APK](https://github.com/LoginRs99/automorph-builds/releases/download/com-zhiliaoapp-musically-v47.9.3/com-zhiliaoapp-musically-47.9.3-arm64-v8a-morphe.apk)** · **[📲 Obtainium](https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/%7B%22id%22%3A%22com.zhiliaoapp.musically%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FLoginRs99%2Fautomorph-builds%22%2C%22author%22%3A%22LoginRs99%22%2C%22name%22%3A%22TikTok%22%2C%22latestVersion%22%3A%2247.9.3%22%2C%22preferredApkIndex%22%3A0%2C%22overrideSource%22%3A%22GitHub%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3A%20false%2C%20%5C%22fallbackToOlderReleases%5C%22%3A%20true%2C%20%5C%22filterReleaseTitlesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22filterReleaseNotesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22verifyLatestTag%5C%22%3A%20false%2C%20%5C%22dontSortReleasesList%5C%22%3A%20false%2C%20%5C%22useLatestAssetDateAsReleaseDate%5C%22%3A%20false%2C%20%5C%22releaseTitleAsVersion%5C%22%3A%20false%2C%20%5C%22trackOnly%5C%22%3A%20false%2C%20%5C%22versionExtractionRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22matchGroupToUse%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22versionDetection%5C%22%3A%20true%2C%20%5C%22releaseDateAsVersion%5C%22%3A%20false%2C%20%5C%22useVersionCodeAsOSVersion%5C%22%3A%20false%2C%20%5C%22apkFilterRegEx%5C%22%3A%20%5C%22%5Ecom%5C%5C%5C%5C-zhiliaoapp%5C%5C%5C%5C-musically-.%2A%5C%5C%5C%5C.apk%24%5C%22%2C%20%5C%22invertAPKFilter%5C%22%3A%20false%2C%20%5C%22autoApkFilterByArch%5C%22%3A%20true%2C%20%5C%22appName%5C%22%3A%20%5C%22TikTok%5C%22%2C%20%5C%22shizukuPretendToBeGooglePlay%5C%22%3A%20false%2C%20%5C%22allowInsecure%5C%22%3A%20false%2C%20%5C%22exemptFromBackgroundUpdates%5C%22%3A%20false%2C%20%5C%22skipUpdateNotifications%5C%22%3A%20false%2C%20%5C%22about%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22refreshBeforeDownload%5C%22%3A%20false%2C%20%5C%22filterReleasesByRegEx%5C%22%3A%20%5C%22%5Ecom%5C%5C%5C%5C-zhiliaoapp%5C%5C%5C%5C-musically-v%5C%22%7D%22%7D)** |
 | **X LG** (`x-lg`) | `v12.38.1-prod.01` | 112.20 MB | API 32–36 | 47 | 2026-11-26 | **[⬇ APK](https://github.com/LoginRs99/automorph-builds/releases/download/x-lg-v12.38.1-prod.01/x-lg-12.38.1-prod.01-arm64-v8a-morphe.apk)** · **[📲 Obtainium](https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/%7B%22id%22%3A%22com.lg.android.piko%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FLoginRs99%2Fautomorph-builds%22%2C%22author%22%3A%22LoginRs99%22%2C%22name%22%3A%22X%20LG%22%2C%22latestVersion%22%3A%2212.38.1-prod.01%22%2C%22preferredApkIndex%22%3A0%2C%22overrideSource%22%3A%22GitHub%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3A%20false%2C%20%5C%22fallbackToOlderReleases%5C%22%3A%20true%2C%20%5C%22filterReleaseTitlesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22filterReleaseNotesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22verifyLatestTag%5C%22%3A%20false%2C%20%5C%22dontSortReleasesList%5C%22%3A%20false%2C%20%5C%22useLatestAssetDateAsReleaseDate%5C%22%3A%20false%2C%20%5C%22releaseTitleAsVersion%5C%22%3A%20false%2C%20%5C%22trackOnly%5C%22%3A%20false%2C%20%5C%22versionExtractionRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22matchGroupToUse%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22versionDetection%5C%22%3A%20true%2C%20%5C%22releaseDateAsVersion%5C%22%3A%20false%2C%20%5C%22useVersionCodeAsOSVersion%5C%22%3A%20false%2C%20%5C%22apkFilterRegEx%5C%22%3A%20%5C%22%5Ex%5C%5C%5C%5C-lg-.%2A%5C%5C%5C%5C.apk%24%5C%22%2C%20%5C%22invertAPKFilter%5C%22%3A%20false%2C%20%5C%22autoApkFilterByArch%5C%22%3A%20true%2C%20%5C%22appName%5C%22%3A%20%5C%22X%20LG%5C%22%2C%20%5C%22shizukuPretendToBeGooglePlay%5C%22%3A%20false%2C%20%5C%22allowInsecure%5C%22%3A%20false%2C%20%5C%22exemptFromBackgroundUpdates%5C%22%3A%20false%2C%20%5C%22skipUpdateNotifications%5C%22%3A%20false%2C%20%5C%22about%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22refreshBeforeDownload%5C%22%3A%20false%2C%20%5C%22filterReleasesByRegEx%5C%22%3A%20%5C%22%5Ex%5C%5C%5C%5C-lg-v%5C%22%7D%22%7D)** |
 | **YouTube LG** (`youtube-lg`) | `v21.45.82` | 170.14 MB | API 32–37 | 114 | 2026-11-26 | **[⬇ APK](https://github.com/LoginRs99/automorph-builds/releases/download/youtube-lg-v21.45.82/youtube-lg-21.45.82-arm64-v8a-morphe.apk)** · **[📲 Obtainium](https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/%7B%22id%22%3A%22com.lg.youtube%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FLoginRs99%2Fautomorph-builds%22%2C%22author%22%3A%22LoginRs99%22%2C%22name%22%3A%22YouTube%20LG%22%2C%22latestVersion%22%3A%2221.45.82%22%2C%22preferredApkIndex%22%3A0%2C%22overrideSource%22%3A%22GitHub%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3A%20false%2C%20%5C%22fallbackToOlderReleases%5C%22%3A%20true%2C%20%5C%22filterReleaseTitlesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22filterReleaseNotesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22verifyLatestTag%5C%22%3A%20false%2C%20%5C%22dontSortReleasesList%5C%22%3A%20false%2C%20%5C%22useLatestAssetDateAsReleaseDate%5C%22%3A%20false%2C%20%5C%22releaseTitleAsVersion%5C%22%3A%20false%2C%20%5C%22trackOnly%5C%22%3A%20false%2C%20%5C%22versionExtractionRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22matchGroupToUse%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22versionDetection%5C%22%3A%20true%2C%20%5C%22releaseDateAsVersion%5C%22%3A%20false%2C%20%5C%22useVersionCodeAsOSVersion%5C%22%3A%20false%2C%20%5C%22apkFilterRegEx%5C%22%3A%20%5C%22%5Eyoutube%5C%5C%5C%5C-lg-.%2A%5C%5C%5C%5C.apk%24%5C%22%2C%20%5C%22invertAPKFilter%5C%22%3A%20false%2C%20%5C%22autoApkFilterByArch%5C%22%3A%20true%2C%20%5C%22appName%5C%22%3A%20%5C%22YouTube%20LG%5C%22%2C%20%5C%22shizukuPretendToBeGooglePlay%5C%22%3A%20false%2C%20%5C%22allowInsecure%5C%22%3A%20false%2C%20%5C%22exemptFromBackgroundUpdates%5C%22%3A%20false%2C%20%5C%22skipUpdateNotifications%5C%22%3A%20false%2C%20%5C%22about%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22refreshBeforeDownload%5C%22%3A%20false%2C%20%5C%22filterReleasesByRegEx%5C%22%3A%20%5C%22%5Eyoutube%5C%5C%5C%5C-lg-v%5C%22%7D%22%7D)** |
 
@@ -69,160 +68,6 @@ Automated Android APK builds patched locally with **AutoMorph** & **Morphe Deskt
 - Sanitize sharing links
 - Show flairs in home feed
 - Spoof signature
-
-</details>
-
-<details><summary><strong>TikTok</strong> (<code>com.zhiliaoapp.musically</code> — v47.9.3)</summary>
-
-| Property | Value |
-| --- | --- |
-| **Source Package** | `com.zhiliaoapp.musically` |
-| **Patched Package** | `com.zhiliaoapp.musically` |
-| **Version Code** | `2147483647` |
-| **Morphe Engine** | `2.3.0` |
-| **APK SHA-256** | `ffeb958de9e36e9d0e264cb35539ebd077f4c7143634f33afb5df36b9b2f65a4` |
-| **Signing Cert SHA-256** | `97c5c6b996e6e589bb8d0ad097587395637c1d05e5b1c15467f08b1fa78aad3a` |
-| **Patch Sources** | `https://github.com/SysAdminDoc/hushfeed` |
-| **1-Click Obtainium** | [📲 Add to Obtainium](https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/%7B%22id%22%3A%22com.zhiliaoapp.musically%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FLoginRs99%2Fautomorph-builds%22%2C%22author%22%3A%22LoginRs99%22%2C%22name%22%3A%22TikTok%22%2C%22latestVersion%22%3A%2247.9.3%22%2C%22preferredApkIndex%22%3A0%2C%22overrideSource%22%3A%22GitHub%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3A%20false%2C%20%5C%22fallbackToOlderReleases%5C%22%3A%20true%2C%20%5C%22filterReleaseTitlesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22filterReleaseNotesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22verifyLatestTag%5C%22%3A%20false%2C%20%5C%22dontSortReleasesList%5C%22%3A%20false%2C%20%5C%22useLatestAssetDateAsReleaseDate%5C%22%3A%20false%2C%20%5C%22releaseTitleAsVersion%5C%22%3A%20false%2C%20%5C%22trackOnly%5C%22%3A%20false%2C%20%5C%22versionExtractionRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22matchGroupToUse%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22versionDetection%5C%22%3A%20true%2C%20%5C%22releaseDateAsVersion%5C%22%3A%20false%2C%20%5C%22useVersionCodeAsOSVersion%5C%22%3A%20false%2C%20%5C%22apkFilterRegEx%5C%22%3A%20%5C%22%5Ecom%5C%5C%5C%5C-zhiliaoapp%5C%5C%5C%5C-musically-.%2A%5C%5C%5C%5C.apk%24%5C%22%2C%20%5C%22invertAPKFilter%5C%22%3A%20false%2C%20%5C%22autoApkFilterByArch%5C%22%3A%20true%2C%20%5C%22appName%5C%22%3A%20%5C%22TikTok%5C%22%2C%20%5C%22shizukuPretendToBeGooglePlay%5C%22%3A%20false%2C%20%5C%22allowInsecure%5C%22%3A%20false%2C%20%5C%22exemptFromBackgroundUpdates%5C%22%3A%20false%2C%20%5C%22skipUpdateNotifications%5C%22%3A%20false%2C%20%5C%22about%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22refreshBeforeDownload%5C%22%3A%20false%2C%20%5C%22filterReleasesByRegEx%5C%22%3A%20%5C%22%5Ecom%5C%5C%5C%5C-zhiliaoapp%5C%5C%5C%5C-musically-v%5C%22%7D%22%7D) |
-
-**Applied Patches:**
-- Account cleanup
-- Allow Duet and Stitch
-- Allow screenshots and Circle to Search
-- Always show publish date
-- Always upload in HD
-- App lock
-- Automatic video advance
-- Block author button
-- Block contact list access
-- Block installed app scanning
-- Block popups
-- Block suggested video notifications
-- Camera and microphone indicator
-- Comment publish diagnostics
-- Comment send fix
-- Comment sort controls
-- Comment tools
-- Confirm feed interactions
-- Copy bio and IDs
-- Copy comments without username
-- Create stickers
-- Custom offline videos limit
-- Device privacy guard
-- Diagnostic tools
-- Disable login requirement
-- Disable screen capture detection
-- Disable telemetry
-- Disable the long press quick share
-- Disable the long press repost
-- Double-tap controls
-- Downloads
-- Drop the animated image cache
-- Enable voice comments
-- Expand activity list
-- Feature Gate Lab
-- Feed filter
-- Feed tab navigation
-- Feed text sizes
-- Fit the video to the screen
-- Fix Google login
-- Fix Spotify login
-- Fix notifications on OPPO, OnePlus and realme
-- Foldable split comment view
-- Follow diagnostics
-- Freeze TikTok's experiments
-- Ghost mode
-- Group likes per comment
-- Hide CAPTCHA popups
-- Hide Play Store update offer
-- Hide already seen videos
-- Hide comment popup ads
-- Hide comment typing suggestions
-- Hide feed LIVE button
-- Hide feed follow button
-- Hide feed save button
-- Hide feed search button
-- Hide floating promotions
-- Hide inbox items
-- Hide inbox stories
-- Hide profile shortcuts
-- Hide read receipts
-- Hide search suggestions
-- Hide suggested accounts
-- Hide the launcher shortcuts
-- Hide video overlays
-- Hold-and-slide 2x lock
-- In-app browser privacy guard
-- Keep a streak going
-- Keep playing in the background
-- Keep pulled sounds
-- Keep recent stickers
-- Keep the Favorites tab
-- Keep the app language
-- Keep the next videos in full screen
-- Keep the screen's brightness in the camera
-- Keep the screen's refresh rate
-- Keep unsent messages
-- LIVE controls
-- Lift text length limits
-- Limit background traffic
-- Load all saved stickers
-- Location access governor
-- Long-press controls
-- Mute feed videos
-- Network proxy
-- Not interested button
-- Notification controls
-- Open external links directly
-- Open the comments at full height
-- Picture-in-picture
-- Play SDR instead of HDR
-- Play original audio
-- Playback quality
-- Playback speed
-- Prefer H.264 playback
-- Profile background
-- Remember clear display
-- Remove avatar rings
-- Report a newer phone to effects
-- Report a newer phone to game LIVE
-- Repost diagnostics
-- Resource and battery governor
-- Resume videos after scrolling
-- SIM spoof
-- Sanitize sharing links
-- Settings
-- Share sheet tools
-- Show LIVE search
-- Show author region
-- Show commenter handle and region
-- Show engagement rate
-- Show exact counts
-- Show follow status
-- Show the progress bar
-- Show the progress bar thumbnail
-- Skip content warnings
-- Skip passkey sign-in
-- Skip the splash ad
-- Skip update checks
-- Smaller text sizes
-- Split activity list
-- Stay on the video in full screen
-- Stop on-device AI profiling
-- Stop recording watch history
-- Stop saving search history
-- Stop search autoplay
-- Stop video looping
-- Story controls
-- Subtitle tools
-- Swipe-left controls
-- Translate comments
-- Turn off haptics
-- Turn off screen transitions
-- Turn profiles and comment pictures on tablets
-- UI scale
-- Use non-personalized search
-- Use system font
 
 </details>
 
