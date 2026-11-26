@@ -16,59 +16,95 @@ Automated Android APK builds patched locally with **AutoMorph** & **Morphe Deskt
 
 | App | Version | Size | Android SDK | Patches | Updated (UTC) | Download |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Reddit** (`com-reddit-frontpage`) | `v2026.45.0` | 129.52 MB | API 32–36 | 32 | 2026-11-26 | **[⬇ APK](https://github.com/LoginRs99/automorph-builds/releases/download/com-reddit-frontpage-v2026.45.0/com-reddit-frontpage-2026.45.0-arm64-v8a-morphe.apk)** · **[📲 Obtainium](https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/%7B%22id%22%3A%22com.lg.reddit%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FLoginRs99%2Fautomorph-builds%22%2C%22author%22%3A%22LoginRs99%22%2C%22name%22%3A%22Reddit%22%2C%22latestVersion%22%3A%222026.45.0%22%2C%22preferredApkIndex%22%3A0%2C%22overrideSource%22%3A%22GitHub%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3A%20false%2C%20%5C%22fallbackToOlderReleases%5C%22%3A%20true%2C%20%5C%22filterReleaseTitlesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22filterReleaseNotesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22verifyLatestTag%5C%22%3A%20false%2C%20%5C%22dontSortReleasesList%5C%22%3A%20false%2C%20%5C%22useLatestAssetDateAsReleaseDate%5C%22%3A%20false%2C%20%5C%22releaseTitleAsVersion%5C%22%3A%20false%2C%20%5C%22trackOnly%5C%22%3A%20false%2C%20%5C%22versionExtractionRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22matchGroupToUse%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22versionDetection%5C%22%3A%20true%2C%20%5C%22releaseDateAsVersion%5C%22%3A%20false%2C%20%5C%22useVersionCodeAsOSVersion%5C%22%3A%20false%2C%20%5C%22apkFilterRegEx%5C%22%3A%20%5C%22%5Ecom%5C%5C%5C%5C-reddit%5C%5C%5C%5C-frontpage-.%2A%5C%5C%5C%5C.apk%24%5C%22%2C%20%5C%22invertAPKFilter%5C%22%3A%20false%2C%20%5C%22autoApkFilterByArch%5C%22%3A%20true%2C%20%5C%22appName%5C%22%3A%20%5C%22Reddit%5C%22%2C%20%5C%22shizukuPretendToBeGooglePlay%5C%22%3A%20false%2C%20%5C%22allowInsecure%5C%22%3A%20false%2C%20%5C%22exemptFromBackgroundUpdates%5C%22%3A%20false%2C%20%5C%22skipUpdateNotifications%5C%22%3A%20false%2C%20%5C%22about%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22refreshBeforeDownload%5C%22%3A%20false%2C%20%5C%22filterReleasesByRegEx%5C%22%3A%20%5C%22%5Ecom%5C%5C%5C%5C-reddit%5C%5C%5C%5C-frontpage-v%5C%22%7D%22%7D)** |
+| **Reddit** (`reddit`) | `v2026.48.0` | 88.99 MB | API 29–36 | 68 | 2026-11-26 | **[⬇ APK](https://github.com/LoginRs99/automorph-builds/releases/download/reddit-v2026.48.0/reddit-2026.48.0-arm64-v8a-morphe.apk)** · **[📲 Obtainium](https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/%7B%22id%22%3A%22com.reddit.frontpage%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FLoginRs99%2Fautomorph-builds%22%2C%22author%22%3A%22LoginRs99%22%2C%22name%22%3A%22Reddit%22%2C%22latestVersion%22%3A%222026.48.0%22%2C%22preferredApkIndex%22%3A0%2C%22overrideSource%22%3A%22GitHub%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3A%20false%2C%20%5C%22fallbackToOlderReleases%5C%22%3A%20true%2C%20%5C%22filterReleaseTitlesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22filterReleaseNotesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22verifyLatestTag%5C%22%3A%20false%2C%20%5C%22dontSortReleasesList%5C%22%3A%20false%2C%20%5C%22useLatestAssetDateAsReleaseDate%5C%22%3A%20false%2C%20%5C%22releaseTitleAsVersion%5C%22%3A%20false%2C%20%5C%22trackOnly%5C%22%3A%20false%2C%20%5C%22versionExtractionRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22matchGroupToUse%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22versionDetection%5C%22%3A%20true%2C%20%5C%22releaseDateAsVersion%5C%22%3A%20false%2C%20%5C%22useVersionCodeAsOSVersion%5C%22%3A%20false%2C%20%5C%22apkFilterRegEx%5C%22%3A%20%5C%22%5Ereddit-.%2A%5C%5C%5C%5C.apk%24%5C%22%2C%20%5C%22invertAPKFilter%5C%22%3A%20false%2C%20%5C%22autoApkFilterByArch%5C%22%3A%20true%2C%20%5C%22appName%5C%22%3A%20%5C%22Reddit%5C%22%2C%20%5C%22shizukuPretendToBeGooglePlay%5C%22%3A%20false%2C%20%5C%22allowInsecure%5C%22%3A%20false%2C%20%5C%22exemptFromBackgroundUpdates%5C%22%3A%20false%2C%20%5C%22skipUpdateNotifications%5C%22%3A%20false%2C%20%5C%22about%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22refreshBeforeDownload%5C%22%3A%20false%2C%20%5C%22filterReleasesByRegEx%5C%22%3A%20%5C%22%5Ereddit-v%5C%22%7D%22%7D)** |
 | **TikTok** (`tiktok`) | `v47.9.3` | 356.21 MB | API 23–36 | 125 | 2026-11-26 | **[⬇ APK](https://github.com/LoginRs99/automorph-builds/releases/download/tiktok-v47.9.3/tiktok-47.9.3-arm64-v8a-morphe.apk)** · **[📲 Obtainium](https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/%7B%22id%22%3A%22com.zhiliaoapp.musically%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FLoginRs99%2Fautomorph-builds%22%2C%22author%22%3A%22LoginRs99%22%2C%22name%22%3A%22TikTok%22%2C%22latestVersion%22%3A%2247.9.3%22%2C%22preferredApkIndex%22%3A0%2C%22overrideSource%22%3A%22GitHub%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3A%20false%2C%20%5C%22fallbackToOlderReleases%5C%22%3A%20true%2C%20%5C%22filterReleaseTitlesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22filterReleaseNotesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22verifyLatestTag%5C%22%3A%20false%2C%20%5C%22dontSortReleasesList%5C%22%3A%20false%2C%20%5C%22useLatestAssetDateAsReleaseDate%5C%22%3A%20false%2C%20%5C%22releaseTitleAsVersion%5C%22%3A%20false%2C%20%5C%22trackOnly%5C%22%3A%20false%2C%20%5C%22versionExtractionRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22matchGroupToUse%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22versionDetection%5C%22%3A%20true%2C%20%5C%22releaseDateAsVersion%5C%22%3A%20false%2C%20%5C%22useVersionCodeAsOSVersion%5C%22%3A%20false%2C%20%5C%22apkFilterRegEx%5C%22%3A%20%5C%22%5Etiktok-.%2A%5C%5C%5C%5C.apk%24%5C%22%2C%20%5C%22invertAPKFilter%5C%22%3A%20false%2C%20%5C%22autoApkFilterByArch%5C%22%3A%20true%2C%20%5C%22appName%5C%22%3A%20%5C%22TikTok%5C%22%2C%20%5C%22shizukuPretendToBeGooglePlay%5C%22%3A%20false%2C%20%5C%22allowInsecure%5C%22%3A%20false%2C%20%5C%22exemptFromBackgroundUpdates%5C%22%3A%20false%2C%20%5C%22skipUpdateNotifications%5C%22%3A%20false%2C%20%5C%22about%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22refreshBeforeDownload%5C%22%3A%20false%2C%20%5C%22filterReleasesByRegEx%5C%22%3A%20%5C%22%5Etiktok-v%5C%22%7D%22%7D)** |
 | **X** (`x-lg`) | `v12.19.1-release.0` | 213.79 MB | API 28–35 | 69 | 2026-11-26 | **[⬇ APK](https://github.com/LoginRs99/automorph-builds/releases/download/x-lg-v12.19.1-release.0/x-lg-12.19.1-release.0-arm64-v8a-morphe.apk)** · **[📲 Obtainium](https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/%7B%22id%22%3A%22com.twitter.android%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FLoginRs99%2Fautomorph-builds%22%2C%22author%22%3A%22LoginRs99%22%2C%22name%22%3A%22X%22%2C%22latestVersion%22%3A%2212.19.1-release.0%22%2C%22preferredApkIndex%22%3A0%2C%22overrideSource%22%3A%22GitHub%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3A%20false%2C%20%5C%22fallbackToOlderReleases%5C%22%3A%20true%2C%20%5C%22filterReleaseTitlesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22filterReleaseNotesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22verifyLatestTag%5C%22%3A%20false%2C%20%5C%22dontSortReleasesList%5C%22%3A%20false%2C%20%5C%22useLatestAssetDateAsReleaseDate%5C%22%3A%20false%2C%20%5C%22releaseTitleAsVersion%5C%22%3A%20false%2C%20%5C%22trackOnly%5C%22%3A%20false%2C%20%5C%22versionExtractionRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22matchGroupToUse%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22versionDetection%5C%22%3A%20true%2C%20%5C%22releaseDateAsVersion%5C%22%3A%20false%2C%20%5C%22useVersionCodeAsOSVersion%5C%22%3A%20false%2C%20%5C%22apkFilterRegEx%5C%22%3A%20%5C%22%5Ex%5C%5C%5C%5C-lg-.%2A%5C%5C%5C%5C.apk%24%5C%22%2C%20%5C%22invertAPKFilter%5C%22%3A%20false%2C%20%5C%22autoApkFilterByArch%5C%22%3A%20true%2C%20%5C%22appName%5C%22%3A%20%5C%22X%5C%22%2C%20%5C%22shizukuPretendToBeGooglePlay%5C%22%3A%20false%2C%20%5C%22allowInsecure%5C%22%3A%20false%2C%20%5C%22exemptFromBackgroundUpdates%5C%22%3A%20false%2C%20%5C%22skipUpdateNotifications%5C%22%3A%20false%2C%20%5C%22about%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22refreshBeforeDownload%5C%22%3A%20false%2C%20%5C%22filterReleasesByRegEx%5C%22%3A%20%5C%22%5Ex%5C%5C%5C%5C-lg-v%5C%22%7D%22%7D)** |
 | **YouTube** (`youtube`) | `v21.30.216` | 108.92 MB | API 29–37 | 130 | 2026-11-26 | **[⬇ APK](https://github.com/LoginRs99/automorph-builds/releases/download/youtube-v21.30.216/youtube-21.30.216-arm64-v8a-morphe.apk)** · **[📲 Obtainium](https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/%7B%22id%22%3A%22YoutubeAPP.fixedname%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FLoginRs99%2Fautomorph-builds%22%2C%22author%22%3A%22LoginRs99%22%2C%22name%22%3A%22YouTube%22%2C%22latestVersion%22%3A%2221.30.216%22%2C%22preferredApkIndex%22%3A0%2C%22overrideSource%22%3A%22GitHub%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3A%20false%2C%20%5C%22fallbackToOlderReleases%5C%22%3A%20true%2C%20%5C%22filterReleaseTitlesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22filterReleaseNotesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22verifyLatestTag%5C%22%3A%20false%2C%20%5C%22dontSortReleasesList%5C%22%3A%20false%2C%20%5C%22useLatestAssetDateAsReleaseDate%5C%22%3A%20false%2C%20%5C%22releaseTitleAsVersion%5C%22%3A%20false%2C%20%5C%22trackOnly%5C%22%3A%20false%2C%20%5C%22versionExtractionRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22matchGroupToUse%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22versionDetection%5C%22%3A%20true%2C%20%5C%22releaseDateAsVersion%5C%22%3A%20false%2C%20%5C%22useVersionCodeAsOSVersion%5C%22%3A%20false%2C%20%5C%22apkFilterRegEx%5C%22%3A%20%5C%22%5Eyoutube-.%2A%5C%5C%5C%5C.apk%24%5C%22%2C%20%5C%22invertAPKFilter%5C%22%3A%20false%2C%20%5C%22autoApkFilterByArch%5C%22%3A%20true%2C%20%5C%22appName%5C%22%3A%20%5C%22YouTube%5C%22%2C%20%5C%22shizukuPretendToBeGooglePlay%5C%22%3A%20false%2C%20%5C%22allowInsecure%5C%22%3A%20false%2C%20%5C%22exemptFromBackgroundUpdates%5C%22%3A%20false%2C%20%5C%22skipUpdateNotifications%5C%22%3A%20false%2C%20%5C%22about%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22refreshBeforeDownload%5C%22%3A%20false%2C%20%5C%22filterReleasesByRegEx%5C%22%3A%20%5C%22%5Eyoutube-v%5C%22%7D%22%7D)** |
 
 ## Expandable App Cards
 
-<details><summary><strong>Reddit</strong> (<code>com.lg.reddit</code> — v2026.45.0)</summary>
+<details><summary><strong>Reddit</strong> (<code>com.reddit.frontpage</code> — v2026.48.0)</summary>
 
 | Property | Value |
 | --- | --- |
 | **Source Package** | `com.reddit.frontpage` |
-| **Patched Package** | `com.lg.reddit` |
+| **Patched Package** | `com.reddit.frontpage` |
 | **Version Code** | `2147483647` |
-| **Morphe Engine** | `2.1.0` |
-| **APK SHA-256** | `6723b8bae065baf158b50a07b5aa4b6de90ec4d8f1a572c2e8d475fe2a615aa6` |
+| **Morphe Engine** | `2.3.0` |
+| **APK SHA-256** | `2d8d040301d4f85ce894fce45eb01e50263677bef91e928582022c9144353b9d` |
 | **Signing Cert SHA-256** | `97c5c6b996e6e589bb8d0ad097587395637c1d05e5b1c15467f08b1fa78aad3a` |
 | **Patch Sources** | `https://github.com/MorpheApp/morphe-patches` |
-| **1-Click Obtainium** | [📲 Add to Obtainium](https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/%7B%22id%22%3A%22com.lg.reddit%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FLoginRs99%2Fautomorph-builds%22%2C%22author%22%3A%22LoginRs99%22%2C%22name%22%3A%22Reddit%22%2C%22latestVersion%22%3A%222026.45.0%22%2C%22preferredApkIndex%22%3A0%2C%22overrideSource%22%3A%22GitHub%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3A%20false%2C%20%5C%22fallbackToOlderReleases%5C%22%3A%20true%2C%20%5C%22filterReleaseTitlesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22filterReleaseNotesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22verifyLatestTag%5C%22%3A%20false%2C%20%5C%22dontSortReleasesList%5C%22%3A%20false%2C%20%5C%22useLatestAssetDateAsReleaseDate%5C%22%3A%20false%2C%20%5C%22releaseTitleAsVersion%5C%22%3A%20false%2C%20%5C%22trackOnly%5C%22%3A%20false%2C%20%5C%22versionExtractionRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22matchGroupToUse%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22versionDetection%5C%22%3A%20true%2C%20%5C%22releaseDateAsVersion%5C%22%3A%20false%2C%20%5C%22useVersionCodeAsOSVersion%5C%22%3A%20false%2C%20%5C%22apkFilterRegEx%5C%22%3A%20%5C%22%5Ecom%5C%5C%5C%5C-reddit%5C%5C%5C%5C-frontpage-.%2A%5C%5C%5C%5C.apk%24%5C%22%2C%20%5C%22invertAPKFilter%5C%22%3A%20false%2C%20%5C%22autoApkFilterByArch%5C%22%3A%20true%2C%20%5C%22appName%5C%22%3A%20%5C%22Reddit%5C%22%2C%20%5C%22shizukuPretendToBeGooglePlay%5C%22%3A%20false%2C%20%5C%22allowInsecure%5C%22%3A%20false%2C%20%5C%22exemptFromBackgroundUpdates%5C%22%3A%20false%2C%20%5C%22skipUpdateNotifications%5C%22%3A%20false%2C%20%5C%22about%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22refreshBeforeDownload%5C%22%3A%20false%2C%20%5C%22filterReleasesByRegEx%5C%22%3A%20%5C%22%5Ecom%5C%5C%5C%5C-reddit%5C%5C%5C%5C-frontpage-v%5C%22%7D%22%7D) |
+| **1-Click Obtainium** | [📲 Add to Obtainium](https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/%7B%22id%22%3A%22com.reddit.frontpage%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FLoginRs99%2Fautomorph-builds%22%2C%22author%22%3A%22LoginRs99%22%2C%22name%22%3A%22Reddit%22%2C%22latestVersion%22%3A%222026.48.0%22%2C%22preferredApkIndex%22%3A0%2C%22overrideSource%22%3A%22GitHub%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3A%20false%2C%20%5C%22fallbackToOlderReleases%5C%22%3A%20true%2C%20%5C%22filterReleaseTitlesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22filterReleaseNotesByRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22verifyLatestTag%5C%22%3A%20false%2C%20%5C%22dontSortReleasesList%5C%22%3A%20false%2C%20%5C%22useLatestAssetDateAsReleaseDate%5C%22%3A%20false%2C%20%5C%22releaseTitleAsVersion%5C%22%3A%20false%2C%20%5C%22trackOnly%5C%22%3A%20false%2C%20%5C%22versionExtractionRegEx%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22matchGroupToUse%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22versionDetection%5C%22%3A%20true%2C%20%5C%22releaseDateAsVersion%5C%22%3A%20false%2C%20%5C%22useVersionCodeAsOSVersion%5C%22%3A%20false%2C%20%5C%22apkFilterRegEx%5C%22%3A%20%5C%22%5Ereddit-.%2A%5C%5C%5C%5C.apk%24%5C%22%2C%20%5C%22invertAPKFilter%5C%22%3A%20false%2C%20%5C%22autoApkFilterByArch%5C%22%3A%20true%2C%20%5C%22appName%5C%22%3A%20%5C%22Reddit%5C%22%2C%20%5C%22shizukuPretendToBeGooglePlay%5C%22%3A%20false%2C%20%5C%22allowInsecure%5C%22%3A%20false%2C%20%5C%22exemptFromBackgroundUpdates%5C%22%3A%20false%2C%20%5C%22skipUpdateNotifications%5C%22%3A%20false%2C%20%5C%22about%5C%22%3A%20%5C%22%5C%22%2C%20%5C%22refreshBeforeDownload%5C%22%3A%20false%2C%20%5C%22filterReleasesByRegEx%5C%22%3A%20%5C%22%5Ereddit-v%5C%22%7D%22%7D) |
 
 **Applied Patches:**
+- Always show Hide
 - App icon
-- Clone app
+- AutoModerator comments
+- Collapse all comments
+- Colorize comment indent lines
 - Copy text
-- Custom branding name for Reddit
 - Custom font
 - Customize post layout
 - Disable Play Store updates
+- Disable bottom bar auto-hide
+- Disable home feed auto-refresh
 - Disable modern home
+- Disable post detail swipe
+- Disable refresh on back to exit
 - Disable screenshot popup
+- Download all from gallery
 - Download location
+- Enable debugging
+- Feed auto-scroll
 - Feed media max height
+- Flair filters
 - Force system font
 - Full width feed media
+- Full-screen reply
+- Glass navigation bar
+- Hide Answers preview
 - Hide Ask button
+- Hide People also search for section
+- Hide Related Posts section
 - Hide Trending shelves
+- Hide Videos for you shelf
 - Hide ads
+- Hide comment flairs and badges
 - Hide communities shelf
+- Hide community highlights
+- Hide community menu badge
+- Hide home tabs
+- Hide interactive posts
 - Hide media viewer components
 - Hide navigation buttons
+- Hide post buttons
 - Hide sidebar components
 - High quality avatars
+- Home feed tabs
 - Keep feed position
+- Keep media viewer in subreddit
+- Keyword filters
 - Media viewer black background
 - Media viewer fade
 - Open links directly
 - Open links externally
+- Open system share sheet
+- Post side panel
+- Private browsing mode
 - Redgifs audio
 - Remember collapsed comments
 - Remove subreddit dialog
 - Sanitize sharing links
+- Search hidden profiles
+- See-through status bar
+- Settings in sidebar
+- Share post content
 - Show flairs in home feed
 - Spoof signature
+- Start as guest
+- Swipe up for comments
+- Tablet grid feed
+- Video playback speed
 
 </details>
 
