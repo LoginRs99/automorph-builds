@@ -17,8 +17,8 @@ Automated Android APK builds patched locally with **AutoMorph** & **Morphe Deskt
 | App | Version | Size | Android SDK | Patches | Updated (UTC) | Download |
 | --- | --- | --- | --- | --- | --- | --- |
 | **com.reddit.frontpage** (`com-reddit-frontpage`) | `v2026.45.0` | 129.52 MB | API 32–36 | 32 | 2026-11-26 | **[⬇ Download APK](https://github.com/LoginRs99/automorph-builds/releases/download/com.reddit.frontpage-v2026.45.0/com.reddit.frontpage-2026.45.0-arm64-v8a-morphe.apk)** |
+| **com.twitter.android** (`x-lg`) | `v12.19.1-release.0` | 213.79 MB | API 28–35 | 69 | 2026-11-26 | **[⬇ Download APK](https://github.com/LoginRs99/automorph-builds/releases/download/x-lg-v12.19.1-release.0/x-lg-12.19.1-release.0-arm64-v8a-morphe.apk)** |
 | **com.zhiliaoapp.musically** (`com-zhiliaoapp-musically`) | `v47.9.3` | 235.08 MB | API 23–36 | 137 | 2026-11-26 | **[⬇ Download APK](https://github.com/LoginRs99/automorph-builds/releases/download/com.zhiliaoapp.musically-v47.9.3/com.zhiliaoapp.musically-47.9.3-arm64-v8a-morphe.apk)** |
-| **X LG** (`x-lg`) | `v12.38.1-prod.01` | 112.20 MB | API 32–36 | 47 | 2026-11-26 | **[⬇ Download APK](https://github.com/LoginRs99/automorph-builds/releases/download/x-lg-v12.38.1-prod.01/x-lg-12.38.1-prod.01-arm64-v8a-morphe.apk)** |
 | **YouTube LG** (`youtube-lg`) | `v21.45.82` | 170.14 MB | API 32–37 | 114 | 2026-11-26 | **[⬇ Download APK](https://github.com/LoginRs99/automorph-builds/releases/download/com.google.android.youtube-v21.45.82/com.google.android.youtube-21.45.82-arm64-v8a-morphe.apk)** |
 
 ## Expandable App Cards
@@ -68,6 +68,91 @@ Automated Android APK builds patched locally with **AutoMorph** & **Morphe Deskt
 - Sanitize sharing links
 - Show flairs in home feed
 - Spoof signature
+
+</details>
+
+<details><summary><strong>com.twitter.android</strong> (<code>com.twitter.android</code> — v12.19.1-release.0)</summary>
+
+| Property | Value |
+| --- | --- |
+| **Source Package** | `com.twitter.android` |
+| **Patched Package** | `com.twitter.android` |
+| **Version Code** | `2147483647` |
+| **Morphe Engine** | `2.3.0` |
+| **APK SHA-256** | `bdf9cae2e4d9ba591c21d934a07b5a85ca6941f2b54f8ee8dc00f586ac1aa777` |
+| **Signing Cert SHA-256** | `97c5c6b996e6e589bb8d0ad097587395637c1d05e5b1c15467f08b1fa78aad3a` |
+| **Patch Sources** | `https://github.com/crimera/piko` |
+
+**Applied Patches:**
+- Add ability to copy media link
+- Block redirecting to X Lite
+- Block update screen
+- Clear tracking params
+- Control video auto scroll
+- Custom download folder
+- Custom emoji font
+- Custom font
+- Custom share menu
+- Custom sharing domain
+- Customise post font size
+- Customize Inline action Bar items
+- Customize Navigation Bar items
+- Customize default reply sorting
+- Customize explore tabs
+- Customize notification tabs
+- Customize profile tabs
+- Customize search suggestions
+- Customize search tab items
+- Customize side bar items
+- Customize timeline top bar
+- Delete from database
+- Disable Play Store updates
+- Disable auto timeline scroll on launch
+- Disable chirp font
+- Download patch
+- Enable Undo Posts
+- Enable debug menu for posts
+- Enable force HD videos
+- Force enable translate
+- Handle custom twitter links
+- Hide Banner
+- Hide FAB
+- Hide FAB Menu Buttons
+- Hide Live Threads
+- Hide Recommended Users
+- Hide badges from navigation bar icons
+- Hide bookmark icon in timeline
+- Hide community badges
+- Hide followed by context
+- Hide hidden replies
+- Hide immersive player
+- Hide nudge button
+- Hide post metrics
+- Hide promote button
+- Hide recommendation items
+- Hook feature flag
+- Import/Export login token
+- Legacy share links
+- Log server response
+- More information on profile
+- Native downloader
+- Native reader mode
+- Native translator
+- No shortened URL
+- Pause search suggestions
+- Remove Ads
+- Remove premium upsell
+- Remove search suggestions
+- Remove view count
+- Restore legacy follower lists
+- Round off numbers
+- Selectable Text
+- Share Tweet as Image
+- Show changelogs
+- Show poll results
+- Show post source label
+- Show sensitive media
+- Support external downloader
 
 </details>
 
@@ -221,69 +306,6 @@ Automated Android APK builds patched locally with **AutoMorph** & **Morphe Deskt
 - UI scale
 - Use non-personalized search
 - Use system font
-
-</details>
-
-<details><summary><strong>X LG</strong> (<code>com.lg.android.piko</code> — v12.38.1-prod.01)</summary>
-
-| Property | Value |
-| --- | --- |
-| **Source Package** | `com.twitter.android` |
-| **Patched Package** | `com.lg.android.piko` |
-| **Version Code** | `312381001` |
-| **Morphe Engine** | `2.3.0` |
-| **APK SHA-256** | `ea6add2d1f459ef5d731e169fb181f6a4ba1489d46944a062078cc3208365a3d` |
-| **Signing Cert SHA-256** | `97c5c6b996e6e589bb8d0ad097587395637c1d05e5b1c15467f08b1fa78aad3a` |
-| **Patch Sources** | `https://github.com/crimera/piko-newx` |
-
-**Applied Patches:**
-- NewX: Clone
-- NewX: Crash logs
-- NewX: Custom font
-- NewX: Custom sharing domain
-- NewX: Customize drawer items
-- NewX: Customize inline actions
-- NewX: Customize media menu items
-- NewX: Customize navigation bar
-- NewX: Customize post menu items
-- NewX: Customize profile tabs
-- NewX: Customize timeline tabs
-- NewX: Disable automatic timeline refresh
-- NewX: Disable blur effects
-- NewX: Disable video player scrolling
-- NewX: Enable quality-of-life feature flags
-- NewX: Feature switch overrides
-- NewX: Filter For You by topic
-- NewX: Filter posts by keyword
-- NewX: Gallery profile Photos tab
-- NewX: Hide AI-generated posts
-- NewX: Hide Discover more
-- NewX: Hide Spaces bar
-- NewX: Hide compose button
-- NewX: Hide new posts pill
-- NewX: Hide post author actions
-- NewX: Hide post reply bar
-- NewX: Hide posts by verified account type
-- NewX: Hide premium upsell
-- NewX: Hide timeline tabs bar
-- NewX: Hide who to follow
-- NewX: Inline download button
-- NewX: Open canonical URLs
-- NewX: Permanent share links
-- NewX: Redirect downloads to chosen folder
-- NewX: Remove ads
-- NewX: Remove share tracking parameters
-- NewX: Restore pinned home tab
-- NewX: Restore timeline position
-- NewX: Set default media tab
-- NewX: Set default profile post sorting
-- NewX: Set default reply sorting
-- NewX: Show poll results
-- NewX: Show sensitive media
-- NewX: Theme
-- NewX: Translator
-- NewX: Unlock color customization
-- NewX: Unlock downloads
 
 </details>
 
